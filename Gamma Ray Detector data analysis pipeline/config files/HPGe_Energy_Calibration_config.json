@@ -1,0 +1,59 @@
+{
+  "AMERICIUM_1": {
+      "source_and_file": "/Americium/angle_0.spe",
+      "ROI": [50, 110],
+      "Zoomed_plot_params": [0, 300],
+      "Model": "Gaussian and Line",
+      "slice_index": 500,
+      "added function params": [1, 1]
+    },
+  "AMERICIUM_2": {
+      "source_and_file": "/Americium/angle_0.spe",
+      "ROI": [200, 280],
+      "Zoomed_plot_params": [0, 400],
+      "Model": "Gaussian and Line",
+      "slice_index": 600,
+      "added function params": [1, 1]
+    },
+  "BARIUM_1": {
+    "source_and_file": "/Barium/angle_0.spe",
+    "ROI": [1150, 1250],
+    "Zoomed_plot_params": [900, 1300],
+    "Model": "Gaussian and Line",
+    "slice_index": 1300,
+    "added function params" : [1, 1]
+  },
+  "BARIUM_2": {
+    "source_and_file": "/Barium/angle_0.spe",
+    "ROI": [1360, 1460],
+    "Zoomed_plot_params": [1000, 1500],
+    "Model": "Gaussian and Line",
+    "slice_index": 1500,
+    "added function params" : [1, 1]
+  },
+  "CAESIUM": {
+    "source_and_file": "/Caesium/angle_0.spe",
+    "ROI": [2545, 2724],
+    "Zoomed_plot_params": [2000, 3000],
+    "Model": "Gaussian and Line",
+    "slice_index": 3000,
+    "added function params": [1, 1]
+  },
+  "COBALT_1": {
+    "source_and_file": "/Cobalt/angle_0.spe",
+    "ROI": [4612, 4700],
+    "Zoomed_plot_params": [4300, 5000],
+    "Model": "Gaussian and Line",
+    "slice_index": 5000,
+    "added function params": [1, 1]
+  },
+  "COBALT_2": {
+    "source_and_file": "/Cobalt/angle_0.spe",
+    "ROI": [5245, 5340],
+    "Zoomed_plot_params": [5000, 5500],
+    "Model": "Gaussian and Line",
+    "slice_index": 5500,
+    "added function params": [1, 1]
+  }
+
+}

@@ -1,0 +1,27 @@
+{
+  "AMERICIUM": {
+      "source_and_file": "/Americium/angle_0.spe",
+      "ROI": [12, 81],
+      "Zoomed_plot_params": [0, 200],
+      "Model": "Double Gaussian",
+      "slice_index": 1000,
+      "added function params": [0]
+    },
+  "BARIUM": {
+    "source_and_file": "/Barium/angle_0.spe",
+    "ROI": [200, 400],
+    "Zoomed_plot_params": [100, 500],
+    "Model": "Double Gaussian and Line",
+    "slice_index": 600,
+    "added function params" : [0.05, -0.6]
+  },
+  "CAESIUM": {
+    "source_and_file": "/Caesium/angle_0.spe",
+    "ROI": [500, 750],
+    "Zoomed_plot_params": [400, 750],
+    "Model": "Gaussian and Line",
+    "slice_index": 1000,
+    "added function params": [0.05, -0.6]
+  }
+
+}
